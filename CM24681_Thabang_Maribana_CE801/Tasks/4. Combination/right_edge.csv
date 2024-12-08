@@ -1,0 +1,10 @@
+RFS,RBS,Speed,Direction
+near,near,low,left
+near,medium,low,left
+near,far,low,left
+medium,near,low,left
+medium,medium,medium,straight
+medium,far,medium,left
+far,near,medium,right
+far,medium,medium,right
+far,far,medium,right
