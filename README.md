@@ -28,17 +28,17 @@ CM24681_Thabang_Maribana_CE801/
 │   │   └── main.py           # Main script for PID control.
 │   │
 │   ├── 2. Right Edge Detection/
-│   │   ├── main.py           # Script for right edge detection.
+│   │   ├── main.py           # Script for  Fuzzy logic: right edge detection.
 │   │   ├── right_edge.csv    # Sample CSV data for testing.
 │   │   └── right_edge.json   # JSON configuration or output for edge detection.
 │   │
 │   ├── 3. Obstacle Avoidance/
-│   │   ├── main.py           # Script for obstacle avoidance logic.
+│   │   ├── main.py           # Script for Fuzzy logic: obstacle avoidance logic.
 │   │   ├── object_avoidance.csv
 │   │   └── object_avoidance.json
 │   │
 │   ├── 4. Combination/
-│       ├── main.py           # Combines all the movement tasks.
+│       ├── main.py           # Combines the Fuzzy behaviors tasks.
 │       ├── object_avoidance.csv
 │       ├── object_avoidance.json
 │       ├── right_edge.csv
