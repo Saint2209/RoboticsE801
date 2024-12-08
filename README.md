@@ -113,12 +113,8 @@ The necessary dependencies will be automatically installed when running `prep.py
 ## Author
 
 **Thabang Maribana[https://github.com/Saint2209]**  
-MSc Artificial Intelligence Candidate  
-
-Credits
-This README was prepared with the assistance of ChatGPT, an AI model developed by OpenAI.
+MSc Artificial Intelligence Candidate
 University of Essex, 2024/2025
 
----
-
-Let me know if any additional details or changes are needed!
+##Credits
+This README was prepared with the assistance of ChatGPT, an AI model developed by OpenAI.
