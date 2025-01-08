@@ -116,5 +116,6 @@ The necessary dependencies will be automatically installed when running `prep.py
 MSc Artificial Intelligence Candidate
 University of Essex, 2024/2025
 
-##Credits
+## Credits
+
 This README was prepared with the assistance of ChatGPT, an AI model developed by OpenAI.
