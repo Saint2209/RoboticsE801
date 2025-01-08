@@ -11,7 +11,7 @@ This project, titled **Fuzzy Logic and Movement Systems**, demonstrates the impl
 ## Directory Structure
 
 ```
-CM24681_Thabang_Maribana_CE801/
+Dir/
 │
 ├── prep.py              # Prepares the environment for execution (configures dependencies and environment settings).
 ├── run.py               # Entry point script to execute the entire system.
@@ -81,7 +81,7 @@ CM24681_Thabang_Maribana_CE801/
    - Clone the repository onto the robot:
      ```bash
      git clone <repository-url>
-     cd CM24681_Thabang_Maribana_CE801
+     cd Dir
      ```
 
 3. **Prepare the Environment**:
